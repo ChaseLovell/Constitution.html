@@ -1,0 +1,37 @@
+body{
+    /*This is the background image with the link (Stars)*/
+    background-image: url("Stars.jpg");
+}
+
+h1{
+	/*This is the color, type, and size of the font for heading 1*/
+    color: black;
+	font-family: times new roman, arial;
+    font-weight: 900;
+}
+
+h2{
+	/*Color, type, and size of font for heading 2*/
+    color: black;
+	font-family: times new roman, arial;
+    font-weight:bolder
+}
+
+h3{
+	/*Color, type, and size of font for heading 3*/
+    color: black;
+	font-family: times new roman, arial;
+    font-weight: bolder;
+}
+
+p{
+	/*Color, type, and size of font for paragraphs*/
+    color: black;
+	font-family: times new roman, arial;
+    font-weight: bolder;
+}
+
+/*Changes the color of the link once it has been visited*/
+a:visited{
+	color: red;
+}
